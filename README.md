@@ -4,6 +4,8 @@
 
 Lovink, Geert. _Social media abyss: Critical Internet cultures and the force of negation_. John Wiley & Sons, 2017. [epub](https://github.com/DeSociologue/nomad-lib/blob/master/Lovink%2C%20Geert%20-%20Social%20media%20abyss_%20critical%20internet%20cultures%20and%20the%20force%20of%20negation-Wiley_Polity%20Press%20(2016).epub) [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Social%20Media%20Abyss%20-%20Geert%20Lovink.pdf)
 
+Lovink, Geert, and Miriam Rasch. _Unlike us reader: Social media monopolies and their alternatives_. AmsterdamInstitute of Network Cultures, 2013. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Unlike%20Us%20Reader-%20Social%20Media%20Monopolies%20and%20Their%20Alternatives.pdf)
+
 Zielinski, Siegfried. _[... After the Media]: News from the Slow-Fading Twentieth Century_. U of Minnesota Press, 2015. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/After%20the%20Media-%20News%20from%20the%20Slow-fading%20Twentieth%20Century.pdf)
 
 Sholette, Gregory, and Kim Charnley. _Delirium and resistance: Activist art and the crisis of capitalism_. London: Pluto Press, 2017. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Delirium%20and%20Resistance-%20Activist%20Art%20and%20the%20Crisis%20of%20Capitalism.pdf)
