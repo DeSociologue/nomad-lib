@@ -22,6 +22,8 @@ Galloway, Alexander R. _Protocol: How control exists after decentralization_. MI
 
 Ratta, Donatella Della. "Digital Socialism Beyond the Digital Social: Confronting Communicative Capitalism with Ethics of Care." _TripleC (Cognition, Communication, Co-Operation): Open Access Journal for a Global Sustainable Information Society_ 18, no. 1 (2020). [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Digital%20Socialism%20Beyond%20the%20Digital%20Social:%20Confronting%20Communicative%20Capitalism%20with%20Ethics%20of%20Care..pdf)
 
+Haraway, Donna. "A cyborg manifesto: Science, technology, and socialist-feminism in the late 20th century." In _The international handbook of virtual learning environments_, pp. 117-158. Springer, Dordrecht, 2006. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/A%20Cyborg%20Manifesto%2C%20Donna%20Haraway.pdf)
+
 范國豪. "Gianni Vattimo 的後現代傳播理論." 政治大學社會學研究所學位論文 (2011): 1-83. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Gianni%20Vattimo%20%E7%9A%84%E5%BE%8C%E7%8F%BE%E4%BB%A3%E5%82%B3%E6%92%AD%E7%90%86%E8%AB%96.pdf)
 
 Zuboff, Shoshana, Norma Möllers, David Murakami Wood, and David Lyon. "Surveillance Capitalism: An Interview with Shoshana Zuboff." _Surveillance & Society_ 17, no. 1/2 (2019): 257-266. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Zuboff%2C%20S.%2C%20M%C3%B6llers%2C%20N.%2C%20Wood%2C%20D.%20M.%2C%20%26%20Lyon%2C%20D.%20(2019).%20Surveillance%20Capitalism:%20An%20Interview%20with%20Shoshana%20Zuboff.%20Surveillance%20%26%20Society%2C%2017(1:2)%2C%20257-266..pdf)
