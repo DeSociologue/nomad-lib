@@ -12,7 +12,7 @@ Sholette, Gregory, and Kim Charnley. _Delirium and resistance: Activist art and 
 
 Galloway, Alexander R., Eugene Thacker, and McKenzie Wark. _Excommunication: Three inquiries in media and mediation_. University of Chicago Press, 2013. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Excommunication-%20Three%20Inquiries%20in%20Media%20and%20Mediation.pdf)
 
-Galloway, Alexander R. Protocol: How control exists after decentralization. MIT press, 2004. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Protocol-%20How%20Control%20Exists%20after%20Decentralization.pdf)
+Galloway, Alexander R. _Protocol: How control exists after decentralization_. MIT press, 2004. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/Protocol-%20How%20Control%20Exists%20after%20Decentralization.pdf)
 
 齐泽克. 无身体的器官: 论德勒兹及其推论. 南京大学出版社, 2019. [PDF](https://github.com/DeSociologue/nomad-lib/blob/master/%E6%97%A0%E8%BA%AB%E4%BD%93%E7%9A%84%E5%99%A8%E5%AE%98%EF%BC%9A%E8%AE%BA%E5%BE%B7%E5%8B%92%E5%85%B9%E5%8F%8A%E5%85%B6%E6%8E%A8%E8%AE%BA.pdf)
 
